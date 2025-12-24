@@ -36,7 +36,7 @@ Vue.js 3 ve Vuex kullanılarak geliştirilmiş, gerçek zamanlı ve tur bazlı b
 Projeyi yerel makinenizde çalıştırmak için terminali açıp aşağıdaki adımları izleyin:
 
 ### 1. Projeyi Klonlayın
-git clone [https://github.com/KULLANICI_ADINIZ/horse-racing.git](https://github.com/KULLANICI_ADINIZ/horse-racing.git)
+git clone [https://github.com/alifpercin/horse-racing.git](https://github.com/alifpercin/horse-racing.git)
 cd horse-racing
 
 ### 2. Gerekli Paketleri Yükleyin
